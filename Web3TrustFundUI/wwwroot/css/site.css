@@ -5,6 +5,9 @@
 
 html, body {
     font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    background-image: url(../images/bank2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 
@@ -191,9 +194,7 @@ a, .btn-link {
     color: #b32121;
 }
 
-.page-background-class {
-    background-image: url(\cloudy.jpg);
-}
+
 
 
 
