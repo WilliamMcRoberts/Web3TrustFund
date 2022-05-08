@@ -10,7 +10,7 @@ Lets Users Create Trust Funds Via Any EVM Compatible Blockchain:
 
 Lets Beneficiaries Withdraw Funds Upon Release Date:
 
-
+![funds-withdraw](https://user-images.githubusercontent.com/95720340/167285095-520f1ff0-206f-4fca-b068-5d7d99b0e77b.png)
 
 
 
